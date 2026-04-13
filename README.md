@@ -69,6 +69,9 @@ Open source - Feel free to modify and use as needed!
 💡 Use it to organize coding sessions, daily tasks, or project planning  
 💡 The grid background provides a nice paper-like notepad feel  
 
+## Screenshot
+<img width="1919" height="927" alt="brave_screenshot_byte-board-sable vercel app" src="https://github.com/user-attachments/assets/ed60408c-8a9d-4975-a753-5e1c194a2316" />
+
 ---
 
 Enjoy planning with ☕ and code! Happy organizing!te-Board
